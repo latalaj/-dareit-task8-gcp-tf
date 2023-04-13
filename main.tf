@@ -48,3 +48,5 @@ resource "google_storage_bucket_object" "static-website" {
   bucket = google_storage_bucket.static-website.name
 }
 
+ 
+ 
